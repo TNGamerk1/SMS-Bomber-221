@@ -54,7 +54,7 @@ if (isset($_POST['no'])) {
 
     <body>
         <center>
-            <h1 style="color:#20c20e">SMS Bombing</h1>
+            <h1 style="color:#20c20e">SMS Bomber</h1>
         </center>
         <div class="mainbox">
 
@@ -81,7 +81,7 @@ if (isset($_POST['no'])) {
 
         </div>
         <div class="footer">
-            <h2 style="color:#20c20e">Created by: Gray Hat Syndicate</h2>
+            <h2 style="color:#20c20e">Created by: MRJDHACKS</h2>
         </div>
     </body>
 
